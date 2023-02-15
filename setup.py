@@ -12,7 +12,6 @@ setup(
   author = 'Sebastian Buczyński',
   author_email = 'nnplaya@gmail.com',
   url = 'https://github.com/Enforcer/pylint_google_style_guide_imports_enforcing',
-  download_url = 'https://github.com/Enforcer/pylint_google_style_guide_imports_enforcing/archive/1.2.0.tar.gz',
   keywords = ['pylint', 'google style guide', 'imports'],
   classifiers = [],
   include_package_data=True
